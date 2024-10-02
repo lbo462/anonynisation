@@ -1,0 +1,7 @@
+venv
+.idea
+adult.p
+attrib_dict_adult.p
+*.pdf
+*.png
+__pycache__
